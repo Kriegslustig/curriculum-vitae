@@ -18,6 +18,11 @@ Switzerland
 ## Bildung
 
 2012 – 2016 – Lehre als [Mediamatiker EFZ](http://www.ict-berufsbildung.ch/ict-lehre/mediamatiker-in-efz/ausbildung/) – [Somedia Production Web](http://www.somedia-production.ch/home/), Chur
+2010 – 2012 Sekundarschule - [Hochalpines Institut Ftan](hif.ch)
+2008 – 2010 Sekundarschule - Domat/Ems
+2002 – 2008 Primarschule - Caguils, Domat/Ems
+
+
 
 ## Berufserfahrung
 
@@ -31,7 +36,7 @@ Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine A
 
 * Integriere mich schnell in neue Umgebungen
 * Kontaktfreudig und weltoffen
-* Teile mein Wissen gerne und bin lehrfreudig
+* Teile mein Wissen gerne
 * Bin sehr lernbegierig
 * Gutes logisch-abstraktes Denkvermögen
 
@@ -99,7 +104,7 @@ Informatik-Lehrer, [Gewerbliche Berufsschule Chur](http://gbchur.ch/) & Consulta
 [Telefon Nummer auf Anfrage](mailto:root@lucaschmid.net)
 
 **Andreas Kemp**<br />
-Abteilungsleiter, Somedia Production Web<br />
+Leiter Web Agentur, Somedia Production Web<br />
 [andreas.kemp@somedia.ch](mailto:andreas.kemp@somedia.ch)<br />
 [+41 81 255 55 82](tel:+41812555582)
 
