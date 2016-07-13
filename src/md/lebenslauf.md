@@ -9,9 +9,9 @@ Via Giuvs 17<br />
 7013 Domat/Ems<br />
 Switzerland
 
-me@lucaschmid.net<br />
-+41 79 233 41 41<br />
-lucaschmid.net
+[me@lucaschmid.net](mailto:me@lucaschmid.net)<br />
+[+41 79 233 41 41](tel:+41792334141)<br />
+[lucaschmid.net](https://lucaschmid.net)
 
 ![Bewerbungsfoto](https://lucaschmid.net/img/resume/small_bright.jpg)
 
@@ -21,7 +21,7 @@ lucaschmid.net
 
 ## Berufserfahrung
 
-Am Anfang meiner Lehre habe ich verschiendenen Abteilung der [Somedia](http://www.somedia.ch/home/) gearbeitet. Es wurde mir schnell klar, dass mein Intresse beim Programmieren liegt. Im grössten Teil meiner Lehre habe ich deshalb als Full-Stack Web Programmierer mit JavaScript, PHP und CSS gearbeitet.
+Am Anfang meiner Lehre habe ich verschiedenen Abteilung der [Somedia](http://www.somedia.ch/home/) gearbeitet. Es wurde mir schnell klar, dass mein Interesse beim Programmieren liegt. Im grössten Teil meiner Lehre habe ich deshalb als Full-Stack Web Programmierer mit JavaScript, PHP und CSS gearbeitet.
 
 Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine Abschlussarbeit, grossrat.suedostschweiz.ch.
 
@@ -102,12 +102,4 @@ Informatik-Lehrer, [Gewerbliche Berufsschule Chur](http://gbchur.ch/) & Consulta
 Abteilungsleiter, Somedia Production Web<br />
 [andreas.kemp@somedia.ch](mailto:andreas.kemp@somedia.ch)<br />
 [+41 81 255 55 82](tel:+41812555582)
-
-
-
-
-------
-
-Passugg CH, 13. Juli 2016,
-Luca Nils Schmid
 
