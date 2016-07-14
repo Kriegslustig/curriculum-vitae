@@ -26,7 +26,7 @@ Switzerland
 
 ## Berufserfahrung
 
-Am Anfang meiner Lehre habe ich verschiedenen Abteilung der [Somedia](http://www.somedia.ch/home/) gearbeitet. Es wurde mir schnell klar, dass mein Interesse beim Programmieren liegt. Im grössten Teil meiner Lehre habe ich deshalb als Full-Stack Web Programmierer mit JavaScript, PHP und CSS gearbeitet.
+Am Anfang meiner Lehre habe ich in verschiedenen Abteilungen der [Somedia](http://www.somedia.ch/home/) gearbeitet. Es wurde mir schnell klar, dass mein Interesse beim Programmieren liegt. Während dem grössten Teil meiner Lehre habe ich deshalb als Full-Stack-Web-Programmierer mit JavaScript, PHP und CSS gearbeitet.
 
 Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine Abschlussarbeit, grossrat.suedostschweiz.ch.
 
@@ -83,16 +83,16 @@ Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine A
 ### Projekte
 
 #### [Github](https://github.com/Kriegslustig)
-In meiner Freizeit arbeite ich gerne an Open-Source Projekten. Die meisten dieser Projekte sind auf meiner [Github-Page](https://github.com/Kriegslustig).
+In meiner Freizeit arbeite ich gerne an Open-Source Projekten. Die meisten dieser Projekte sind auf meiner [Github-Profil](https://github.com/Kriegslustig).
 
 #### [grossrat.suedostschweiz.ch](http://www.suedostschweiz.ch/politik/2016-04-19/mehr-transparenz-starker-franken-und-wirte-ohne-pruefung#twitter-widget-2) – Somedia Production
-In meiner Lehrabschlussarbeit habe ich die Abstimmungsresultate des Grossen Rats in Chur (Graubünden, Schweiz) visualisiert. Dazu habe ich mit [Symfony](https://symfony.com/) ein Backend zur Erfassung der Daten erstellt. Dieses hat eine JSON-API aus den die Daten Strukturiert und effizient ausgelesen werden können. Der grösste Teil der Arbeit war es, die Visualisierung umzusetzen. Dabei habe ich mich für [Cycle.js](http://cycle.js.org/) (ein Reactive-UI Framework basierend auf [RxJS](https://github.com/Reactive-Extensions/RxJS)) entschieden und die Daten dynamich zu rendern.
+In meiner Lehrabschlussarbeit habe ich die Abstimmungsresultate des Grossen Rats in Chur (Graubünden, Schweiz) visualisiert. Dazu habe ich mit [Symfony](https://symfony.com/) ein Backend zur Erfassung der Daten erstellt. Dieses hat eine JSON-API aus der Daten strukturiert und effizient ausgelesen werden können. Der grösste Teil der Arbeit war es, die Visualisierung umzusetzen. Dabei habe ich mich für [Cycle.js](http://cycle.js.org/) (ein Reactive-UI Framework basierend auf [RxJS](https://github.com/Reactive-Extensions/RxJS)) entschieden und die Daten dynamich zu rendern.
 
 #### [suedostschweiz.ch](http://www.suedostschweiz.ch/) – Somedia Production
 suedostschweiz.ch ist ein News-Portal an dem ich bei Somedia Production gearbeitet habe. Unter anderem war ich dort für das technische Konzept des Front-Ends verantwortlich.
 
-#### [elm:make](https://github.com/Kriegslustig/meteor-elm-make) – FOSS/Freizeit Projekt
-elm:make ist ein Meteor Package, dass [Elm](http://elm-lang.org/)-Code in Meteor Projekten kompiliert.
+#### [elm:make](https://github.com/Kriegslustig/meteor-elm-make) – FOSS/Freizeit-Projekt
+elm:make ist ein Meteor Package, welches [Elm](http://elm-lang.org/)-Code in Meteor Projekten kompiliert.
 
 Zu einigen meiner Open-Source Projekte habe ich [hier](https://lucaschmid.net/projects) etwas geschrieben.
 
@@ -101,7 +101,7 @@ Zu einigen meiner Open-Source Projekte habe ich [hier](https://lucaschmid.net/pr
 **Fabian Dennler**<br />
 Informatik-Lehrer, [Gewerbliche Berufsschule Chur](http://gbchur.ch/) & Consultant<br />
 [fabian.dennler@gbchur.ch](mailto:fabian.dennler@gbchur.ch)<br />
-[Telefon Nummer auf Anfrage](mailto:root@lucaschmid.net)
+[Telefonnummer auf Anfrage](mailto:me@lucaschmid.net)
 
 **Andreas Kemp**<br />
 Leiter Web Agentur, Somedia Production Web<br />
