@@ -26,3 +26,14 @@ hr {
   background-color: #ddd;
 }
 
+@media (min-width: 680px) {
+  nav ul {
+    margin: 0 1rem;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+

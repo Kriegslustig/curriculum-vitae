@@ -20,9 +20,12 @@ Switzerland
 ## Bildung
 
 2012 - 2016 – Lehre als [Mediamatiker EFZ](http://www.ict-berufsbildung.ch/ict-lehre/mediamatiker-in-efz/ausbildung/) – [Somedia Production Web](http://www.somedia-production.ch/home/), Chur
-2010 - 2012 Sekundarschule - [Hochalpines Institut Ftan](hif.ch)
-2008 - 2010 Sekundarschule - Domat/Ems
-2002 - 2008 Primarschule - Caguils, Domat/Ems
+
+2010 - 2012 – Sekundarschule - [Hochalpines Institut Ftan](hif.ch)
+
+2008 - 2010 – Sekundarschule - Domat/Ems
+
+2002 - 2008 – Primarschule - Caguils, Domat/Ems
 
 
 
