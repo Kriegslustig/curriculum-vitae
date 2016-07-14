@@ -9,3 +9,12 @@ img {
   max-width: 25rem;
 }
 
+nav li::after {
+  content: '|';
+  margin-left: .4rem;
+}
+
+nav li:last-child::after {
+  content: none;
+}
+
