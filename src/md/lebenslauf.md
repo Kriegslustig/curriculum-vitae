@@ -60,28 +60,7 @@ Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine A
 
 #### Weitere Technologien
 
-* [DOM](https://www.w3.org/DOM/)
-* [React](https://facebook.github.io/react/)
-* [Angular](https://angular.io/)
-* [Cycle.js](http://cycle.js.org/)
-* [Riot.js](http://riotjs.com)
-* [Meteor](http://meteor.com)
-* JavaScript Build Systems (e.g. [Webpack](https://webpack.github.io/), [Gulp](http://gulpjs.com/), [Browserify](http://browserify.org/))
-* JavaScript Libraries (e.g. [jQuery](http://jquery.com/), [lodash](https://lodash.com/))
-* [BEM](https://bem.info/)
-* [Mocha](https://mochajs.org/)
-* [Karma](https://karma-runner.github.io)
-* [Node.js](http://nodejs.org/)
-* [Docker](http://docker.com/)
-* [WordPress](http://wordpress.org/)
-* [Drupal 7, 8](http://drupal.org/)
-* [VIM](http://www.vim.org/)
-* [Git](https://www.git-scm.com/) / Git Flow
-* [MySQL](https://www.mysql.com/)
-* [MongoDB](http://www.mongodb.org/)
-* Mac OS
-* Linux
-* Windows
+[DOM](https://www.w3.org/DOM/), [React](https://facebook.github.io/react/), [Rx.js](https://github.com/Reactive-Extensions/RxJS/), [Angular](https://angular.io/), [Cycle.js](http://cycle.js.org/), [Riot.js](http://riotjs.com), [Meteor](http://meteor.com), JavaScript Build Systems (e.g. [Webpack](https://webpack.github.io/), [Gulp](http://gulpjs.com/), [Browserify](http://browserify.org/)), JavaScript Libraries (e.g. [jQuery](http://jquery.com/), [lodash](https://lodash.com/)), [BEM](https://bem.info/), [Mocha](https://mochajs.org/), [Karma](https://karma-runner.github.io), [Node.js](http://nodejs.org/), [Docker](http://docker.com/), [WordPress](http://wordpress.org/), [Drupal 7, 8](http://drupal.org/), [VIM](http://www.vim.org/), [Git](https://www.git-scm.com/) / Git Flow, [MySQL](https://www.mysql.com/), [MongoDB](http://www.mongodb.org/), Mac OS, Linux, Windows
 
 ----
 

@@ -9,6 +9,10 @@ img {
   max-width: 25rem;
 }
 
+nav ul {
+  margin: 0;
+}
+
 nav li::after {
   content: '|';
   margin-left: .4rem;
@@ -16,6 +20,10 @@ nav li::after {
 
 nav li:last-child::after {
   content: none;
+}
+
+a.active {
+  text-decoration: underline;
 }
 
 hr {
@@ -26,14 +34,26 @@ hr {
   background-color: #ddd;
 }
 
-@media (min-width: 680px) {
-  nav ul {
-    margin: 0 1rem;
-  }
+main {
+  min-height: 100vh;
+  transition: opacity .4s;
+  opacity: 1;
+}
 
+.translating {
+  opacity: 0;
+}
+
+@media (min-width: 340px) {
   header {
     display: flex;
     justify-content: space-between;
+  }
+}
+
+@media (min-width: 680px) {
+  nav ul {
+    margin: 0 1rem;
   }
 }
 
