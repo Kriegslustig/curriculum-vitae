@@ -18,3 +18,11 @@ nav li:last-child::after {
   content: none;
 }
 
+hr {
+  height: 1px;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  width: 100%;
+  background-color: #ddd;
+}
+

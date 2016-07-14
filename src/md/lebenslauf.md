@@ -15,6 +15,8 @@ Switzerland
 
 ![Bewerbungsfoto](https://lucaschmid.net/img/resume/small_bright.jpg)
 
+---
+
 ## Bildung
 
 2012 - 2016 – Lehre als [Mediamatiker EFZ](http://www.ict-berufsbildung.ch/ict-lehre/mediamatiker-in-efz/ausbildung/) – [Somedia Production Web](http://www.somedia-production.ch/home/), Chur
@@ -77,6 +79,8 @@ Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine A
 * Mac OS
 * Linux
 * Windows
+
+----
 
 ## Referenzen
 
