@@ -1,0 +1,28 @@
+html {
+  overflow-x: hidden;
+}
+
+.textupdater {
+  position: relative;
+  perspective: 600px;
+  perspective-origin: 50vh 50vw;
+}
+
+.textupdater__plate {
+  transition: transform ease 1s, opacity ease 1s;
+  transform-origin: 50% 50% 0;
+  opacity: 0;
+}
+
+.textupdater__plate--foreground {
+  transform: rotateY(0);
+  opacity: 1;
+}
+
+.textupdater__plate--background,
+.textupdater__plate--disappearing {
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+

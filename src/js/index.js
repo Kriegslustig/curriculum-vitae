@@ -14,7 +14,7 @@ module.exports = (getText) => {
   const main = document.querySelector('main')
   const updateText = textUpdater(() => getText(getLang()), main)
   const highlightCurrent = currentNavHighlighter(langNav, 'hash')
-  updateText()
+  updateText(true)
   highlightCurrent()
   window.addEventListener('hashchange', updateText)
   window.addEventListener('hashchange', highlightCurrent)
