@@ -6,7 +6,10 @@ const getHash = () => {
 const getNavigatorLanguage = () => {
   const bcp47lang = navigator.language
   const lang = bcp47lang.substr(0, 2)
-  if (lang.length === 2) return lang
+  if (lang.length === 2) {
+    window.location.hash = `#${lang}`
+    return lang
+  }
 }
 
 module.exports = (languages, defaultLang) => () => {

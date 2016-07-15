@@ -78,7 +78,7 @@ In meiner Lehrabschlussarbeit habe ich die Abstimmungsresultate des Grossen Rats
 suedostschweiz.ch ist ein News-Portal an dem ich bei Somedia Production gearbeitet habe. Unter anderem war ich dort für das technische Konzept des Front-Ends verantwortlich.
 
 #### [elm:make](https://github.com/Kriegslustig/meteor-elm-make) – FOSS/Freizeit-Projekt
-elm:make ist ein Meteor Package, welches [Elm](http://elm-lang.org/)-Code in Meteor Projekten kompiliert.
+elm:make ist ein [Meteor](http://meteor.com) Package, welches [Elm](http://elm-lang.org/)-Code in Meteor Projekten kompiliert.
 
 Zu einigen meiner Open-Source Projekte habe ich [hier](https://lucaschmid.net/projects) etwas geschrieben.
 
