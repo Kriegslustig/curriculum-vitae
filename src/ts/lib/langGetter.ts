@@ -16,7 +16,7 @@ const getNavigatorLanguage = () : string | void => {
   }
 }
 
-export = (
+export default (
   translations : Language.Translation,
   defaultLang : Language.Language
 ) : () => string =>

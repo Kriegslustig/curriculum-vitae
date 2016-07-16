@@ -9,7 +9,7 @@ const setTranslate = (element : HTMLElement, factor : number) => {
     translateX(${containerWidth / 1.65 * factor}px)`
 }
 
-export = (textGetter : () => string, container : Element) :
+export default (textGetter : () => string, container : Element) :
   (initial? : boolean | Event) => void => {
     const timeout = 1000
     let lock = false

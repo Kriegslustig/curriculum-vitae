@@ -1,10 +1,10 @@
 /// <reference path="./lib/Language.ts" />
 
-import langGetter = require('./lib/langGetter.ts')
-import currentNavHighlighter = require('./lib/currentNavHighlighter.ts')
-import textUpdater = require('./lib/textUpdater.ts')
+import langGetter from './lib/langGetter.ts'
+import currentNavHighlighter from './lib/currentNavHighlighter.ts'
+import textUpdater from './lib/textUpdater.ts'
 
-export = (getText : (name : string) => string) => {
+export default (getText : (name : string) => string) => {
   const translations : Language.Translation = {
     de: getText('lebenslauf'),
     en: getText('curriculumVitae')

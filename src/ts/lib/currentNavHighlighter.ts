@@ -9,7 +9,7 @@ const updateClass = (type : LocationType) => (el : HTMLElement) : HTMLElement =>
   return el
 }
 
-export = (nav : Element, type : LocationType) : () => Array<Element> => {
+export default (nav : Element, type : LocationType) : () => Array<Element> => {
   const links = [].slice.call(nav.querySelectorAll('a'))
   return () => links.map(updateClass(type))
 }
