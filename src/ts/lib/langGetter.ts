@@ -1,11 +1,8 @@
 /// <reference path="./Language.ts" />
 
-const Language = require('./language.ts')
+import getHash from './getHash.ts'
 
-const getHash = () : string | void => {
-  const hash = window.location.hash.substr(1)
-  if (hash.length > 0) return hash
-}
+const Language = require('./language.ts')
 
 const getNavigatorLanguage = () : string | void => {
   const bcp47lang = navigator.language
