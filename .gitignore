@@ -1,5 +1,4 @@
 node_modules
 *.map
-/typings
 ~*~*.idlk
 
