@@ -16,7 +16,7 @@ var sourcePath = path.resolve(__dirname, 'src')
 
 module.exports = {
   entry: {
-    main: './src'
+    main: './src/index.ts'
   },
 
   output: {
@@ -26,7 +26,7 @@ module.exports = {
 
   module: {
     loaders: [
-      { test: /\.js$/, include: [ sourcePath ], loader: 'babel?presets[]=es2015&cacheDirectory' },
+      { test: /\.ts/, include: [ sourcePath ], loader: 'ts' },
       { test: /\.pug$/, include: [ sourcePath ], loader: ExtractTextPlugin.extract('pug-html') },
       { test: /\.md$/, loader: 'html!markdown' },
       {

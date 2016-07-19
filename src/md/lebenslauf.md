@@ -55,7 +55,7 @@ Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine A
 #### Programmiersprachen
 
 * [JavaScript](http://www.ecma-international.org/ecma-262/6.0/) (ES5/ES6)
-* [CSS](https://www.w3.org/Style/CSS/) & [SASS](http://sass-lang.com/)/[LESS](http://lesscss.org/)
+* [CSS](https://www.w3.org/Style/CSS/) & [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)
 * [PHP](http://php.net/)
 
 #### Weitere Technologien
@@ -72,7 +72,7 @@ Das namhafteste Projekt, an dem ich in meiner Lehre gearbeitet habe, war meine A
 In meiner Freizeit arbeite ich gerne an Open-Source Projekten. Die meisten dieser Projekte sind auf meiner [Github-Profil](https://github.com/Kriegslustig).
 
 #### [grossrat.suedostschweiz.ch](http://www.suedostschweiz.ch/politik/2016-04-19/mehr-transparenz-starker-franken-und-wirte-ohne-pruefung#twitter-widget-2) – Somedia Production
-In meiner Lehrabschlussarbeit habe ich die Abstimmungsresultate des Grossen Rats in Chur (Graubünden, Schweiz) visualisiert. Dazu habe ich mit [Symfony](https://symfony.com/) ein Backend zur Erfassung der Daten erstellt. Dieses hat eine JSON-API aus der Daten strukturiert und effizient ausgelesen werden können. Der grösste Teil der Arbeit war es, die Visualisierung umzusetzen. Dabei habe ich mich für [Cycle.js](http://cycle.js.org/) (ein Reactive-UI-Framework basierend auf [RxJS](https://github.com/Reactive-Extensions/RxJS)) entschieden und die Daten dynamich zu rendern.
+In meiner Lehrabschlussarbeit habe ich die Abstimmungsresultate des Grossen Rats in Chur (Graubünden, Schweiz) visualisiert. Dazu habe ich mit [Symfony](https://symfony.com/) ein Backend zur Erfassung der Daten erstellt. Dieses hat eine JSON-API aus der Daten strukturiert und effizient ausgelesen werden können. Der grösste Teil der Arbeit war es, die Visualisierung umzusetzen. Dabei habe ich mich für [Cycle.js](http://cycle.js.org/) (ein Reactive-UI-Framework basierend auf [Rx.js](https://github.com/Reactive-Extensions/RxJS)) entschieden und die Daten dynamich zu rendern.
 
 #### [suedostschweiz.ch](http://www.suedostschweiz.ch/) – Somedia Production
 suedostschweiz.ch ist ein News-Portal an dem ich bei Somedia Production gearbeitet habe. Unter anderem war ich dort für das technische Konzept des Front-Ends verantwortlich.
